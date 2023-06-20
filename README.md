@@ -14,15 +14,16 @@ Note that s may contain leading or trailing spaces or multiple spaces between tw
 
  Input: s = "  hello world  "
  Output: "world hello"
-# Explanation: Your reversed string should not contain leading or trailing spaces.
+# Explanation: 
+Your reversed string should not contain leading or trailing spaces.
 # Example 3:
-
  Input: s = "a good   example"
  Output: "example good a"
-# Explanation: You need to reduce multiple spaces between two words to a single space in the reversed string.
+# Explanation: 
+You need to reduce multiple spaces between two words to a single space in the reversed string.
 
 # Task 2
-# Дана последовательность целых чисел, оканчивающаяся нулем. Найти сумму положительных чисел, после которых следует отрицательное число.
+Дана последовательность целых чисел, оканчивающаяся нулем. Найти сумму положительных чисел, после которых следует отрицательное число.
 # Пример ввода:
 1 2 1 2 -1 1 3 1 3 -1 0
 # Логика расчета:
